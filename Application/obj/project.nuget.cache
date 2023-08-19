@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ers+BgY4RUcIEcbAKUEht69sK+epD0ZxaMhLY2H2ha4mpTTA27H05NI7MgL/tLQlGo+MQHKzFMR0B6n8Ulke6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DEV\\source\\repos\\NexosTest\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DEV\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\DEV\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
